@@ -10,6 +10,8 @@
   * `.clip()`
   * [`.reset_index()`, `.set_index()`](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.reset_index.html?highlight=reset_index#pandas.DataFrame.reset_index)
   * [`.sort_index()`](https://blog.csdn.net/qq_30638831/article/details/79835523)
+  * [`pd.get_dummies()`生成哑变量](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.get_dummies.html?highlight=get_dummies#pandas.get_dummies)
+  * [[]]索引得到的是dataframe，而[]索引得到的是series
 * numpy
   * [`numpy.linalg`线性代数包](https://numpy.org/devdocs/reference/routines.linalg.html)
   * [`np.identity()`单位阵](https://numpy.org/devdocs/reference/generated/numpy.identity.html?highlight=identity#numpy.identity)
