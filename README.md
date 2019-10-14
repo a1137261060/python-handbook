@@ -18,4 +18,6 @@
 * seaborn
   * [`sns.heatmap()`热力图](https://seaborn.pydata.org/generated/seaborn.heatmap.html?highlight=heatmap#seaborn.heatmap)
 * datetime
-  * [`strftime(), `strptime()`](https://docs.python.org/3/library/datetime.html#strftime-and-strptime-behavior)
+  * [`strftime()`, `strptime()`](https://docs.python.org/3/library/datetime.html#strftime-and-strptime-behavior)
+* statsmodels
+  * [`sm.add_constant()`添加常数项]()
