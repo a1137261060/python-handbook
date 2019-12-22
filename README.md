@@ -3,8 +3,9 @@
 
 ---
 # 目录
-* 内置函数
+* 函数
   * [`apply()`, `applymap()`, `map()`](https://blog.csdn.net/qq_42665335/article/details/81213175)
+  * [`itertools`操作迭代对象如排列组合等等](https://docs.python.org/3/library/itertools.html#itertools.combinations)
 * pandas
   * `.sub()`
   * `.clip()`
